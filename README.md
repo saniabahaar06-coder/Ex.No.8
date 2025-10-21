@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 19-10-2025
+# Reg. No. 25018890
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -50,6 +50,15 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+
+## REFERANCE IMAGE:
+<img width="282" height="279" alt="Screenshot 2025-10-21 220118" src="https://github.com/user-attachments/assets/084d0121-fdc3-4c04-a8fc-4f9c8c530261" />
+
+## REFINE PROMPT:
+for the given image, modify it into a cozy snowy day where people are walking on the pavement wearing jackets and children having fun with snowmans.
+
+## REFINED IMAGE:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cee87d28-734e-4dac-a8cd-d2076d079b9f" />
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
